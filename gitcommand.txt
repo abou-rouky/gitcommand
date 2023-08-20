@@ -1,1 +1,4 @@
 Hello GitCommand
+Bonsoir
+Bonjour
+Bonne nuit
